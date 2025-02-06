@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --accent-color: #FFD700;
+  --accent2-color: #D2691E;
+  --accent3-color: #C71585;
+  --accent4-color: #4682B4;
+  --primary-color: #A52A2A;
+  --dark-text-color: #222222;
+  --gray-text-color: #777777;
+  --button-padding-x: 20px;
+  --button-padding-y: 10px;
+  --font-family-body: Lato;
+  --light-text-color: #FAFAFA;
+  --dark-border-color: #333333;
+  --light-border-color: #E8E8E8;
+  --font-family-heading: Playfair Display;
+  --button-rounded-radius: 8px;
+  --dark-background-color: #111111;
+  --light-background-color: #FAEDED;
+  --medium-background-color: #F7DBDB;
+  --primary-button-bg-color: #A52A2A;
+  --primary-button-text-color: #FFFFFF;
+  --secondary-button-bg-color: #E5E5E5;
+  --secondary-button-text-color: #333333;
+  --primary-button-hover-bg-color: #8B0000;
+  --primary-button-hover-text-color: #FFFFFF;
+  --secondary-button-hover-bg-color: #D5D5D5;
+  --secondary-button-hover-text-color: #111111;
+}
+
+:root {
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  font-weight: 500;
+  text-decoration: none;
+}
+a:hover {
+  color: var(--color-primary);
+}
+
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button:focus,
+button:focus-visible {
+  outline: none;
+}
