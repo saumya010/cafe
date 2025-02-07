@@ -11,8 +11,8 @@ const Footer = () => {
               Café Moderne
             </a>
             <p className="text-left font-light tracking-wider text-[var(--light-text-color)]">
-              At demo, we showcase exquisite design with classy elements,
-              creating an inviting dining experience for our guests.
+              At Café Moderne, we showcase exquisite design with classy
+              elements, creating an inviting dining experience for our guests.
             </p>
             <div className="my-8 flex flex-row justify-center text-gray-400 md:justify-start">
               <a href="/" className="mr-3" aria-label="Visit our Facebook">
@@ -106,7 +106,7 @@ const Footer = () => {
                 className="fa-solid fa-envelope mr-2 w-6 flex-none text-[var(--primary-color)]"
                 aria-hidden="true"
               ></i>
-              <span className="w-[90%] break-words">info@demo.com</span>
+              <span className="w-[90%] break-words">info@cafémoderne.com</span>
             </div>
             <div className="mb-2 flex flex-row font-light tracking-wider text-[var(--light-text-color)] items-center">
               <i

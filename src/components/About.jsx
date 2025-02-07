@@ -25,7 +25,7 @@ const About = () => {
           </div>
           <div className="px-6 sm:px-14 pt-10 lg:w-1/2">
             <h3 className="pb-4 text-base font-medium uppercase tracking-widest text-[var(--primary-color)]">
-              About Demo
+              About Café Moderne
             </h3>
             <h1 className="mb-6 border-b-8 border-[var(--primary-color)] text-2xl font-semibold text-[var(--dark-text-color)] [font-family:var(--font-family-heading)] sm:text-3xl md:text-4xl">
               Indulge in Culinary Elegance

@@ -1,4 +1,5 @@
 import About from "./components/About";
+import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Gallery from "./components/Gallery";
 import Header from "./components/Header";
@@ -15,6 +16,7 @@ const App = () => {
       <Offerings />
       <Gallery />
       <Testimonials />
+      <Contact />
       <Footer />
     </div>
   );

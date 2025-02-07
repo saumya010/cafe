@@ -71,3 +71,9 @@ button:focus-visible {
 .bg-offerings {
   background-image: url(../src/assets/images/offerings-image.webp);
 }
+.bg-contact {
+  background-image: url(../src/assets/images/contact-bg.webp);
+}
+.bg-contact-inner {
+  background-image: url(../src/assets/images/contact-image.webp);
+}

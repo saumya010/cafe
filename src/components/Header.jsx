@@ -14,7 +14,7 @@ const Header = () => {
                     aria-hidden="true"
                   ></i>
                   <span className="text-sm text-[var(--light-text-color)]">
-                    info@demo.com
+                    info@cafémoderne.com
                   </span>
                   <span className="mx-4 text-[var(--light-text-color)]">|</span>
                   <i
