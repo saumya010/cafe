@@ -1,5 +1,6 @@
 import About from "./components/About";
 import Footer from "./components/Footer";
+import Gallery from "./components/Gallery";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Offerings from "./components/Offerings";
@@ -11,6 +12,7 @@ const App = () => {
       <Hero />
       <About />
       <Offerings />
+      <Gallery />
       <Footer />
     </div>
   );
