@@ -68,3 +68,6 @@ button:focus-visible {
 .bg-hero {
   background-image: url(../src/assets/images/hero-image.webp);
 }
+.bg-offerings {
+  background-image: url(../src/assets/images/offerings-image.webp);
+}
